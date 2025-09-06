@@ -31,6 +31,7 @@
 ---
 
 ## Selected Projects
+- **[dominant_colors](https://github.com/yegermaster/dominant_colors)**: A software for extracting and analyzing dominant colors in videos and images.  
 - **Deadle**: A game inspired by Wordle, focused on historical figures.  
 - **Cognitive Guard**: A system for managing cognitive load through a real-time dashboard.  
 - **Visual Information Reconstruction in Neural Networks**: Research on applying latent diffusion models in cognitive science.  
