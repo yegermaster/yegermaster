@@ -3,7 +3,7 @@
 
 <p align="center">
   
-  🔭 I’m currently working on <a href="https://github.com/yegermaster/Deadle">Deadle</a> - a history figures guessing game<br>
+  🔭 I’m currently working on <a href="https://github.com/yegermaster/dominant_colors">dominant_colors</a> - a software for analyzing vidoes and images<br>
   
   🌱 I’m currently learning <strong>latent diffusion models, neuroscience and cognitive science</strong><br>
   
