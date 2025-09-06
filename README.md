@@ -6,7 +6,7 @@
   I’m also learning about <strong>latent diffusion models, neuroscience, and cognitive science</strong>.<br>
   You can find all of my projects here: <a href="https://github.com/yegermaster">github.com/yegermaster</a><br>
   Contact: <strong>itamaryeger3@gmail.com</strong><br><br>
-  Skilled in data cleaning, statistical analysis, data visualization, SQL, spreadsheets, and R for applied data science workflows.
+  *Skilled in data cleaning, statistical analysis, data visualization, SQL, spreadsheets for applied data science workflows.
 </p>
 
 ---
