@@ -2,7 +2,7 @@
 <h3 align="center">Student | Python, Machine Learning, and Neuroscience</h3>
 
 <p align="center">
-  I’m currently developing <a href="https://github.com/yegermaster/dominant_colors">dominant_colors</a>, a tool for analyzing videos and images.<br>
+  I’m currently developing <a href="https://github.com/yegermaster/dominant_color">dominant_color</a>, a tool for analyzing videos and images.<br>
   I’m also learning about <strong>latent diffusion models, neuroscience, and cognitive science</strong>.<br>
   You can find all of my projects here: <a href="https://github.com/yegermaster">github.com/yegermaster</a><br>
   Contact: <strong>itamaryeger3@gmail.com</strong><br><br>
@@ -33,7 +33,7 @@
 ---
 
 ## Selected Projects
-- **[dominant_colors](https://github.com/yegermaster/dominant_colors)**: A software for extracting and analyzing dominant colors in videos and images.  
+- **[dominant_color](https://github.com/yegermaster/dominant_color)**: A software for extracting and analyzing dominant colors in videos and images.  
 - **Deadle**: A game inspired by Wordle, focused on historical figures.  
 - **Cognitive Guard**: A system for managing cognitive load through a real-time dashboard.  
 - **Visual Information Reconstruction in Neural Networks**: Research on applying latent diffusion models in cognitive science.  
